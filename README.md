@@ -1,10 +1,10 @@
-# Introduction
-
+<a href="https://unly.org"><img src="https://storage.googleapis.com/unly/images/ICON_UNLY.png" align="right" height="20" alt="Unly logo" title="Unly logo" /></a>
 [![Travis](https://img.shields.io/travis/i18next/i18next-xhr-backend/master.svg?style=flat-square)](https://travis-ci.org/i18next/i18next-xhr-backend)
 [![Coveralls](https://img.shields.io/coveralls/i18next/i18next-xhr-backend/master.svg?style=flat-square)](https://coveralls.io/github/i18next/i18next-xhr-backend)
 [![npm version](https://img.shields.io/npm/v/i18next-xhr-backend.svg?style=flat-square)](https://www.npmjs.com/package/i18next-xhr-backend)
 [![Bower](https://img.shields.io/bower/v/i18next-xhr-backend.svg)]()
 [![David](https://img.shields.io/david/i18next/i18next-xhr-backend.svg?style=flat-square)](https://david-dm.org/i18next/i18next-xhr-backend)
+[![Known Vulnerabilities](https://snyk.io/test/github/UnlyEd/i18next-universal-backend-tmp/badge.svg?targetFile=package.json)](https://snyk.io/test/github/UnlyEd/i18next-universal-backend-tmp?targetFile=package.json)
 
 This is a simple i18next backend to be used in the browser. It will load resources from a backend server using the xhr API.
 
@@ -147,3 +147,32 @@ xhr.init(null, options);
     <img src="https://raw.githubusercontent.com/i18next/i18next/master/assets/locize_sponsor_240.gif" width="240px">
   </a>
 </p>
+
+# Vulnerability disclosure
+
+[See our policy](https://github.com/UnlyEd/Unly).
+
+---
+
+# Contributors and maintainers
+
+This project is being maintained by:
+- [Unly] Ambroise Dhenain ([Vadorequest](https://github.com/vadorequest)) **(active)**
+
+---
+
+# **[ABOUT UNLY]** <a href="https://unly.org"><img src="https://storage.googleapis.com/unly/images/ICON_UNLY.png" height="40" align="right" alt="Unly logo" title="Unly logo" /></a>
+
+> [Unly](https://unly.org) is a socially responsible company, fighting inequality and facilitating access to higher education. 
+> Unly is committed to making education more inclusive, through responsible funding for students. 
+We provide technological solutions to help students find the necessary funding for their studies. 
+
+We proudly participate in many TechForGood initiatives. To support and learn more about our actions to make education accessible, visit : 
+- https://twitter.com/UnlyEd
+- https://www.facebook.com/UnlyEd/
+- https://www.linkedin.com/company/unly
+- [Interested to work with us?](https://jobs.zenploy.io/unly/about)
+
+Tech tips and tricks from our CTO on our [Medium page](https://medium.com/unly-org/tech/home)!
+
+#TECHFORGOOD #EDUCATIONFORALL
